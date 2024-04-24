@@ -3,7 +3,7 @@
 require File.expand_path('../lib/packagecloud/version', __FILE__)
 
 Gem::Specification.new do |gem|
-  gem.name          = "packagecloud-ruby"
+  gem.name          = "travis-packagecloud-ruby"
   gem.version       = Packagecloud::VERSION
   gem.summary       = "library for interacting with packagecloud.io"
   gem.description   = gem.summary
